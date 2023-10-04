@@ -1,0 +1,21 @@
+add collector and motor, cv algorithms and UART
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	new file:   Picture/ball_distance.jpg
+#	new file:   Picture/collector.jpg
+#	modified:   slide.tex
+#
+# Changes not staged for commit:
+#	modified:   slide.pdf
+#	modified:   slide.vrb
+#
+# Untracked files:
+#	slide.pyg
+#

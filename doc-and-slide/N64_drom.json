@@ -1,0 +1,16 @@
+{
+    "signal": [
+        {
+            "name": "DQ (b0 + master stop)",
+            "wave": "x10..1x|101."
+        },
+        {
+            "name": "DQ (b1 + slave stop)",
+            "wave": "x101..x|10.1"
+        }
+    ],
+    "head": {
+        "tick": -2,
+        "every": 2
+    }
+}
