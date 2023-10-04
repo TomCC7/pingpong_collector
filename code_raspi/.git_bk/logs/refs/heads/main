@@ -1,0 +1,40 @@
+0000000000000000000000000000000000000000 dca55e046705542b3d6b90d4ede17a1f3cdd8a3c cc <cctom@umich.edu> 1647494126 -0400	clone: from gitlab.umich.edu:eecs373-pingpong-bot/code_raspi.git
+dca55e046705542b3d6b90d4ede17a1f3cdd8a3c d575ff1e44cb68a5eab5bedbcf8065ba65656a14 cc <cctom@umich.edu> 1647966043 -0400	commit: add calibration functions
+d575ff1e44cb68a5eab5bedbcf8065ba65656a14 b805e347c402f5b2048eb10cdef0e5900439d847 cc <cctom@umich.edu> 1647967604 -0400	pull origin main: Fast-forward
+b805e347c402f5b2048eb10cdef0e5900439d847 e5decbf4f1c3b4459be4e9e56d6bbac2b04ad48d cc <cctom@umich.edu> 1647972910 -0400	commit: complete calibration, add readme for calib
+e5decbf4f1c3b4459be4e9e56d6bbac2b04ad48d e0e610ed030ece6eafc74480b157aa2e5e83bf00 cc <cctom@umich.edu> 1648000525 -0400	commit: add test files for opencv in c++
+e0e610ed030ece6eafc74480b157aa2e5e83bf00 265a5cb51c56a2c59dedf2a5c4ba9573f80c176c cc <cctom@umich.edu> 1648007390 -0400	commit: add basic c++ layouts
+265a5cb51c56a2c59dedf2a5c4ba9573f80c176c 6c0de8eb48a6c9616ae836f99022ebb47fb76ada cc <cctom@umich.edu> 1648015154 -0400	commit: add multiple ppball detection in c++
+6c0de8eb48a6c9616ae836f99022ebb47fb76ada 90995ebd805c9674a66dd7a38f8dfb54a80af21d cc <cctom@umich.edu> 1648015715 -0400	commit: add changelog and update readme
+90995ebd805c9674a66dd7a38f8dfb54a80af21d 0cfaa67f78df8dae3602e789f97ea843fb8ec987 cc <cctom@umich.edu> 1648052884 -0400	commit: update detection algorithm
+0cfaa67f78df8dae3602e789f97ea843fb8ec987 8520ab5f47730e67018ab61cb63a0388bde160b2 cc <cctom@umich.edu> 1648055005 -0400	commit: add format configs and update formats
+8520ab5f47730e67018ab61cb63a0388bde160b2 f912019947f5e1ef62528a6212e592e7e5bdb0c6 cc <cctom@umich.edu> 1648057954 -0400	pull origin main: Fast-forward
+f912019947f5e1ef62528a6212e592e7e5bdb0c6 7b252d4462c0d67e7518cd89d35692638a8965b3 cc <cctom@umich.edu> 1648058880 -0400	commit: add camera wrapper class
+7b252d4462c0d67e7518cd89d35692638a8965b3 0929916c3b366824c14729a647fc9bc97bb5d40e cc <cctom@umich.edu> 1648061818 -0400	commit: change camera class to singleton
+0929916c3b366824c14729a647fc9bc97bb5d40e 2181970cf9d621779b5953de9c23dc265003ce72 cc <cctom@umich.edu> 1648064128 -0400	commit: move main function
+2181970cf9d621779b5953de9c23dc265003ce72 293f87fb21f4bf7d06b3cf491a79a46180df677a cc <cctom@umich.edu> 1648064286 -0400	commit: add get_angle function for Cam
+293f87fb21f4bf7d06b3cf491a79a46180df677a db3592939264a9a05c6b8d049463c216effa2ef7 cc <cctom@umich.edu> 1648084359 -0400	commit: rename detect to algorithm
+db3592939264a9a05c6b8d049463c216effa2ef7 8223a2f2d23aa328c8161229f21a0e6f533a6331 cc <cctom@umich.edu> 1648084744 -0400	commit: add Ball3D and Ball2D.to_3D()
+8223a2f2d23aa328c8161229f21a0e6f533a6331 80fddd5660a99485b0faecd8c903ba2cfba639bd cc <cctom@umich.edu> 1648086524 -0400	commit: add Ball3D.draw(), update demo
+80fddd5660a99485b0faecd8c903ba2cfba639bd 9cbdfd3c42dcf57b56d819227ce1b0dd40102dff cc <cctom@umich.edu> 1648170978 -0400	commit: fix get distance algorithm
+9cbdfd3c42dcf57b56d819227ce1b0dd40102dff cba24e493f4e98c717979804a882a57e96b786b9 cc <cctom@umich.edu> 1648173702 -0400	commit: add corner_origin in Cam
+cba24e493f4e98c717979804a882a57e96b786b9 04afb3a9111f29adec68123d37a40e4a29c1959a cc <cctom@umich.edu> 1648957462 -0400	commit: add detector class
+04afb3a9111f29adec68123d37a40e4a29c1959a d0f9a2da56367eebcb266db17ea46db5ecf642c6 cc <cctom@umich.edu> 1648957542 -0400	commit: add skeleton for controller class
+d0f9a2da56367eebcb266db17ea46db5ecf642c6 c8ef1240722388e32a59d831a95a10b564d7e2b2 cc <cctom@umich.edu> 1648962919 -0400	commit: add serial class
+c8ef1240722388e32a59d831a95a10b564d7e2b2 ff96f2a48f831ef1b9ff48105337837d5e071c53 cc <cctom@umich.edu> 1648963119 -0400	commit: add doxygen support
+ff96f2a48f831ef1b9ff48105337837d5e071c53 c1ebf0375da8762e70d159548d924b2afc96e4a9 cc <cctom@umich.edu> 1649010290 -0400	commit: add Nucleo class
+c1ebf0375da8762e70d159548d924b2afc96e4a9 5d11de57b2b1fd64fcae34e4d9e2089b5b90b490 cc <cctom@umich.edu> 1649038774 -0400	commit: complete a draft version
+5d11de57b2b1fd64fcae34e4d9e2089b5b90b490 d3cd42cfe7128cd88d491a283b2c8e64a3624d08 cc <cctom@umich.edu> 1649650695 -0400	commit: add and tested the nucleo communication
+d3cd42cfe7128cd88d491a283b2c8e64a3624d08 223a0bd997e6b2c64599b671cf8d76a24093b88d cc <cctom@umich.edu> 1649703619 -0400	commit: complete set_motor inverse
+223a0bd997e6b2c64599b671cf8d76a24093b88d 558a10389fe0e717b9e8e57ed9034eebef0785fa cc <cctom@umich.edu> 1650141563 -0400	commit: it works
+558a10389fe0e717b9e8e57ed9034eebef0785fa 1bec51acc7da8f109d0db09f3d33d901e0993bfd cc <cctom@umich.edu> 1650144596 -0400	commit: fix small issues
+1bec51acc7da8f109d0db09f3d33d901e0993bfd d28a9885dfca9e19e4e7b2d67eb6162d958fbd5a cc <cctom@umich.edu> 1650344386 -0400	commit: add return value checks for servo and LCD
+d28a9885dfca9e19e4e7b2d67eb6162d958fbd5a 536644594c06dd7aaf123481c6f7e4901af67105 cc <cctom@umich.edu> 1650345742 -0400	commit: add fpcs check
+536644594c06dd7aaf123481c6f7e4901af67105 16aff8e21ba4c1e16b660213dced1d440ec558b8 cc <cctom@umich.edu> 1650355980 -0400	commit: update
+16aff8e21ba4c1e16b660213dced1d440ec558b8 5ba8f9a187f653c5d906d66a38ef344528835321 cc <cctom@umich.edu> 1650427332 -0400	commit: update
+5ba8f9a187f653c5d906d66a38ef344528835321 b04a4fdce37539bdcbdb08c03a5377b6436d562c cc <cctom@umich.edu> 1650484770 -0400	commit: finally works again...
+b04a4fdce37539bdcbdb08c03a5377b6436d562c 3c4a618597717e69a6525c80e1b99fb3e2f93828 cc <cctom@umich.edu> 1650499001 -0400	commit: change rot speed
+3c4a618597717e69a6525c80e1b99fb3e2f93828 09008123dcc466f51e46bd68786897b8254a419b cc <cctom@umich.edu> 1668542942 -0500	commit: ✨ Add video
+09008123dcc466f51e46bd68786897b8254a419b bd372bd33dc83ffcca42502a93ed92c699ed2e2a cc <cctom@umich.edu> 1668543710 -0500	commit (amend): ✨ Add video
+bd372bd33dc83ffcca42502a93ed92c699ed2e2a 09008123dcc466f51e46bd68786897b8254a419b cc <cctom@umich.edu> 1668544035 -0500	reset: moving to 0900812
+09008123dcc466f51e46bd68786897b8254a419b 058196785fca5d9f267824146262be6bb0761afb cc <cctom@umich.edu> 1668544040 -0500	commit: update video

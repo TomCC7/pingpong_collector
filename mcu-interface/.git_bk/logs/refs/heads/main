@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 cc <cctom@umich.edu> 1650262145 -0400	branch: Created from HEAD
+33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 0578ee32f7df5ff8fd1c553b020df5a494e45612 cc <cctom@umich.edu> 1650264464 -0400	commit: joystick working now
+0578ee32f7df5ff8fd1c553b020df5a494e45612 38d246bfaf4e74f972f353a69cd4358abc6a19bd cc <cctom@umich.edu> 1650267443 -0400	commit: add move functions
+38d246bfaf4e74f972f353a69cd4358abc6a19bd ee3f88c1bc63cc9b1638fffdde752b6176a52e71 cc <cctom@umich.edu> 1650267789 -0400	commit: add mode switch functions
+ee3f88c1bc63cc9b1638fffdde752b6176a52e71 c0696cd502b825b26b4439f0ced41271f80801b1 cc <cctom@umich.edu> 1650268922 -0400	rebase (continue) (finish): refs/heads/joystick onto ba7e0cfba55837cf154db4ffa523d30c69043f6a
+c0696cd502b825b26b4439f0ced41271f80801b1 c0696cd502b825b26b4439f0ced41271f80801b1 cc <cctom@umich.edu> 1650268945 -0400	Branch: renamed refs/heads/joystick to refs/heads/main
+c0696cd502b825b26b4439f0ced41271f80801b1 71fe25d00faff20fb948d10716746f6571beaaa0 cc <cctom@umich.edu> 1650269261 -0400	commit: fix mode switch bug
+71fe25d00faff20fb948d10716746f6571beaaa0 a6419c2282f28c1dfdedf01b0b311c67f6dc340d cc <cctom@umich.edu> 1650302311 -0400	commit: aba
+a6419c2282f28c1dfdedf01b0b311c67f6dc340d ea5ee9d8a57f1382e334e47a661a00d47c23ddc8 cc <cctom@umich.edu> 1650351704 -0400	commit: complete manual control part, add joystick detection
+ea5ee9d8a57f1382e334e47a661a00d47c23ddc8 ccfd173e68542c1843035fca23203b39176e7a9b cc <cctom@umich.edu> 1650352988 -0400	commit: fix some bugs, seems still can't control motor...
+ccfd173e68542c1843035fca23203b39176e7a9b eaafd519eacf47490f875c2b6d00feb87065b624 cc <cctom@umich.edu> 1650354205 -0400	commit: aba

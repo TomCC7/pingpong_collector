@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "code_raspi"
+version = "0.1.0"
+description = ""
+authors = ["cc <cctom@umich.edu>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+opencv-python = "^4.5.5"
+numpy = "^1.22.3"
+imutils = "^0.5.4"
+matplotlib = "^3.5.1"
+
+[tool.poetry.dev-dependencies]
+ipython = "^8.1.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

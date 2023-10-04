@@ -1,0 +1,78 @@
+0000000000000000000000000000000000000000 459c2bf3b04974c815f10649904b51ffed7a08c8 cc <cctom@umich.edu> 1648950075 -0400	clone: from gitlab.umich.edu:eecs373-pingpong-bot/mcu-interface.git
+459c2bf3b04974c815f10649904b51ffed7a08c8 459c2bf3b04974c815f10649904b51ffed7a08c8 cc <cctom@umich.edu> 1649008060 -0400	reset: moving to HEAD
+459c2bf3b04974c815f10649904b51ffed7a08c8 47d92c4a96bf0ef1bc06906619ca48bbe697b056 cc <cctom@umich.edu> 1649008089 -0400	commit: update serial protocol
+47d92c4a96bf0ef1bc06906619ca48bbe697b056 52c97b221d09fbaa0806ad334ebc0c251968c653 cc <cctom@umich.edu> 1649010330 -0400	commit: add motor index definition
+52c97b221d09fbaa0806ad334ebc0c251968c653 46187d9899533f49163358a4e453e39d689c4b89 cc <cctom@umich.edu> 1649184097 -0400	pull origin main: Fast-forward
+46187d9899533f49163358a4e453e39d689c4b89 d1952cc164756e2c07ffd9e6e059d08994c2ee57 cc <cctom@umich.edu> 1649216443 -0400	pull: Fast-forward
+d1952cc164756e2c07ffd9e6e059d08994c2ee57 0a91362a8c72729583de09197889b1e2a63aa8e6 cc <cctom@umich.edu> 1649528018 -0400	pull origin main: Fast-forward
+0a91362a8c72729583de09197889b1e2a63aa8e6 fac38b3d74a205065b408937ad20e85929f67274 cc <cctom@umich.edu> 1649556997 -0400	pull origin main: Fast-forward
+fac38b3d74a205065b408937ad20e85929f67274 6b66db5dad1e5ab091bbe10c8ac2176211eb357f cc <cctom@umich.edu> 1649557742 -0400	commit: add fake CMakelists
+6b66db5dad1e5ab091bbe10c8ac2176211eb357f 102ab482ede19c58bda6eada068a36f36bc5d587 cc <cctom@umich.edu> 1649564839 -0400	commit: add clang format
+102ab482ede19c58bda6eada068a36f36bc5d587 d4d89c4e1ac4f047ad0ef2fa2597d20957f0c018 cc <cctom@umich.edu> 1649564903 -0400	commit: debug serial protocol and reformat files
+d4d89c4e1ac4f047ad0ef2fa2597d20957f0c018 c0bc44543b338b93da88df9e79bdf9d9e456933a cc <cctom@umich.edu> 1649565034 -0400	rebase (start): checkout origin/main
+c0bc44543b338b93da88df9e79bdf9d9e456933a 4c1d3dbd3c4e85638717825c363537de2aacd037 cc <cctom@umich.edu> 1649565034 -0400	rebase (pick): add clang format
+4c1d3dbd3c4e85638717825c363537de2aacd037 7735cd2510ea7a1506952e281defbaf52627725a cc <cctom@umich.edu> 1649565131 -0400	commit: debug serial protocol and reformat files
+7735cd2510ea7a1506952e281defbaf52627725a d4d89c4e1ac4f047ad0ef2fa2597d20957f0c018 cc <cctom@umich.edu> 1649565197 -0400	checkout: moving from 7735cd2510ea7a1506952e281defbaf52627725a to main
+d4d89c4e1ac4f047ad0ef2fa2597d20957f0c018 d4d89c4e1ac4f047ad0ef2fa2597d20957f0c018 cc <cctom@umich.edu> 1649565254 -0400	rebase (continue) (finish): refs/heads/main onto c0bc44543b338b93da88df9e79bdf9d9e456933a
+d4d89c4e1ac4f047ad0ef2fa2597d20957f0c018 d4d89c4e1ac4f047ad0ef2fa2597d20957f0c018 cc <cctom@umich.edu> 1649565254 -0400	rebase (continue) (finish): returning to refs/heads/main
+d4d89c4e1ac4f047ad0ef2fa2597d20957f0c018 c0bc44543b338b93da88df9e79bdf9d9e456933a cc <cctom@umich.edu> 1649565288 -0400	rebase (start): checkout origin/main
+c0bc44543b338b93da88df9e79bdf9d9e456933a aa9f7d67847f20891ddf3b61b6b3bc03f45840e1 cc <cctom@umich.edu> 1649565288 -0400	rebase (pick): add clang format
+aa9f7d67847f20891ddf3b61b6b3bc03f45840e1 cbb62c66acbb86b79985305f8d81b6a081caf7b8 cc <cctom@umich.edu> 1649565336 -0400	rebase (continue): debug serial protocol and reformat files
+cbb62c66acbb86b79985305f8d81b6a081caf7b8 cbb62c66acbb86b79985305f8d81b6a081caf7b8 cc <cctom@umich.edu> 1649565342 -0400	rebase (continue) (finish): returning to refs/heads/main
+cbb62c66acbb86b79985305f8d81b6a081caf7b8 2ca815fafacc53d78e400e0c61089eb539967a06 cc <cctom@umich.edu> 1649650724 -0400	pull origin main: Fast-forward
+2ca815fafacc53d78e400e0c61089eb539967a06 174e309a28496ddb18668f79561ad99e492f07cc cc <cctom@umich.edu> 1649650865 -0400	commit: debug SerialProtocol and add main structure
+174e309a28496ddb18668f79561ad99e492f07cc 6f4dbda2a98a27263586dec438a4d24dd18ec1e6 cc <cctom@umich.edu> 1649696581 -0400	pull origin main: Fast-forward
+6f4dbda2a98a27263586dec438a4d24dd18ec1e6 d099a74949cf844728540d288bbf74fa9bcde04a cc <cctom@umich.edu> 1649697984 -0400	pull origin main: Fast-forward
+d099a74949cf844728540d288bbf74fa9bcde04a 51eb9acc42c6aa27c0ab5acac79bbf6cb438d56d cc <cctom@umich.edu> 1649698583 -0400	pull: Fast-forward
+51eb9acc42c6aa27c0ab5acac79bbf6cb438d56d 297323d1d552ed3218a26257b27694236b474dd5 cc <cctom@umich.edu> 1649699255 -0400	checkout: moving from main to 297323d
+297323d1d552ed3218a26257b27694236b474dd5 174e309a28496ddb18668f79561ad99e492f07cc cc <cctom@umich.edu> 1649699342 -0400	checkout: moving from 297323d1d552ed3218a26257b27694236b474dd5 to 174e309
+174e309a28496ddb18668f79561ad99e492f07cc 51eb9acc42c6aa27c0ab5acac79bbf6cb438d56d cc <cctom@umich.edu> 1649699920 -0400	checkout: moving from 174e309a28496ddb18668f79561ad99e492f07cc to main
+51eb9acc42c6aa27c0ab5acac79bbf6cb438d56d 57bb0b87b12b696b3cf8672215cae7926011c433 cc <cctom@umich.edu> 1649703668 -0400	commit: fix serial communication bug
+57bb0b87b12b696b3cf8672215cae7926011c433 c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd cc <cctom@umich.edu> 1650131806 -0400	pull: Fast-forward
+c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd 0c38cde000d70780a5bc2d4a0d2288f15e2e1bbb cc <cctom@umich.edu> 1650240727 -0400	pull origin main: Fast-forward
+0c38cde000d70780a5bc2d4a0d2288f15e2e1bbb fd625b8a84d63c7b5bd0b354865c5e869184fd59 cc <cctom@umich.edu> 1650253616 -0400	commit: add display function
+fd625b8a84d63c7b5bd0b354865c5e869184fd59 fd625b8a84d63c7b5bd0b354865c5e869184fd59 cc <cctom@umich.edu> 1650253926 -0400	checkout: moving from main to joystick
+fd625b8a84d63c7b5bd0b354865c5e869184fd59 fd625b8a84d63c7b5bd0b354865c5e869184fd59 cc <cctom@umich.edu> 1650262119 -0400	reset: moving to HEAD
+fd625b8a84d63c7b5bd0b354865c5e869184fd59 fd625b8a84d63c7b5bd0b354865c5e869184fd59 cc <cctom@umich.edu> 1650262124 -0400	checkout: moving from joystick to main
+fd625b8a84d63c7b5bd0b354865c5e869184fd59 33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 cc <cctom@umich.edu> 1650262127 -0400	pull: Fast-forward
+33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 cc <cctom@umich.edu> 1650262145 -0400	checkout: moving from main to joystick
+33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 cc <cctom@umich.edu> 1650262152 -0400	reset: moving to HEAD
+33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 0578ee32f7df5ff8fd1c553b020df5a494e45612 cc <cctom@umich.edu> 1650264464 -0400	commit: joystick working now
+0578ee32f7df5ff8fd1c553b020df5a494e45612 38d246bfaf4e74f972f353a69cd4358abc6a19bd cc <cctom@umich.edu> 1650267443 -0400	commit: add move functions
+38d246bfaf4e74f972f353a69cd4358abc6a19bd ee3f88c1bc63cc9b1638fffdde752b6176a52e71 cc <cctom@umich.edu> 1650267789 -0400	commit: add mode switch functions
+ee3f88c1bc63cc9b1638fffdde752b6176a52e71 33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 cc <cctom@umich.edu> 1650267801 -0400	checkout: moving from joystick to main
+33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 ee3f88c1bc63cc9b1638fffdde752b6176a52e71 cc <cctom@umich.edu> 1650268035 -0400	checkout: moving from main to joystick
+ee3f88c1bc63cc9b1638fffdde752b6176a52e71 33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 cc <cctom@umich.edu> 1650268639 -0400	checkout: moving from joystick to main
+33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 ee3f88c1bc63cc9b1638fffdde752b6176a52e71 cc <cctom@umich.edu> 1650268664 -0400	checkout: moving from main to joystick
+ee3f88c1bc63cc9b1638fffdde752b6176a52e71 ee3f88c1bc63cc9b1638fffdde752b6176a52e71 cc <cctom@umich.edu> 1650268674 -0400	rebase (start): checkout main
+ee3f88c1bc63cc9b1638fffdde752b6176a52e71 ee3f88c1bc63cc9b1638fffdde752b6176a52e71 cc <cctom@umich.edu> 1650268674 -0400	rebase (finish): returning to refs/heads/joystick
+ee3f88c1bc63cc9b1638fffdde752b6176a52e71 33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 cc <cctom@umich.edu> 1650268690 -0400	checkout: moving from joystick to main
+33a2974152aac6d2c3d2055d4e9e2e2d06a33ed7 ba7e0cfba55837cf154db4ffa523d30c69043f6a cc <cctom@umich.edu> 1650268701 -0400	pull: Fast-forward
+ba7e0cfba55837cf154db4ffa523d30c69043f6a ba7e0cfba55837cf154db4ffa523d30c69043f6a cc <cctom@umich.edu> 1650268712 -0400	checkout: moving from main to main
+ba7e0cfba55837cf154db4ffa523d30c69043f6a ee3f88c1bc63cc9b1638fffdde752b6176a52e71 cc <cctom@umich.edu> 1650268715 -0400	checkout: moving from main to joystick
+ee3f88c1bc63cc9b1638fffdde752b6176a52e71 ba7e0cfba55837cf154db4ffa523d30c69043f6a cc <cctom@umich.edu> 1650268721 -0400	rebase (start): checkout main
+ba7e0cfba55837cf154db4ffa523d30c69043f6a 151fc76b7dc08eb2af2554fcb33059d56dbfdda6 cc <cctom@umich.edu> 1650268721 -0400	rebase (pick): joystick working now
+151fc76b7dc08eb2af2554fcb33059d56dbfdda6 62382dc35100460b8295e4538da89c86e1bf765d cc <cctom@umich.edu> 1650268914 -0400	rebase (continue): add move functions
+62382dc35100460b8295e4538da89c86e1bf765d c0696cd502b825b26b4439f0ced41271f80801b1 cc <cctom@umich.edu> 1650268922 -0400	rebase (continue) (pick): add mode switch functions
+c0696cd502b825b26b4439f0ced41271f80801b1 c0696cd502b825b26b4439f0ced41271f80801b1 cc <cctom@umich.edu> 1650268922 -0400	rebase (continue) (finish): returning to refs/heads/joystick
+c0696cd502b825b26b4439f0ced41271f80801b1 0000000000000000000000000000000000000000 cc <cctom@umich.edu> 1650268945 -0400	Branch: renamed refs/heads/joystick to refs/heads/main
+0000000000000000000000000000000000000000 c0696cd502b825b26b4439f0ced41271f80801b1 cc <cctom@umich.edu> 1650268945 -0400	Branch: renamed refs/heads/joystick to refs/heads/main
+c0696cd502b825b26b4439f0ced41271f80801b1 71fe25d00faff20fb948d10716746f6571beaaa0 cc <cctom@umich.edu> 1650269261 -0400	commit: fix mode switch bug
+71fe25d00faff20fb948d10716746f6571beaaa0 ee3f88c1bc63cc9b1638fffdde752b6176a52e71 cc <cctom@umich.edu> 1650269553 -0400	checkout: moving from main to joystick
+ee3f88c1bc63cc9b1638fffdde752b6176a52e71 71fe25d00faff20fb948d10716746f6571beaaa0 cc <cctom@umich.edu> 1650269695 -0400	checkout: moving from joystick to main
+71fe25d00faff20fb948d10716746f6571beaaa0 c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd cc <cctom@umich.edu> 1650300693 -0400	checkout: moving from main to c4b3776
+c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd cc <cctom@umich.edu> 1650300703 -0400	checkout: moving from c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd to auto
+c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd 71fe25d00faff20fb948d10716746f6571beaaa0 cc <cctom@umich.edu> 1650300990 -0400	checkout: moving from auto to main
+71fe25d00faff20fb948d10716746f6571beaaa0 a6419c2282f28c1dfdedf01b0b311c67f6dc340d cc <cctom@umich.edu> 1650302311 -0400	commit: aba
+a6419c2282f28c1dfdedf01b0b311c67f6dc340d c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd cc <cctom@umich.edu> 1650302314 -0400	checkout: moving from main to auto
+c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd a6419c2282f28c1dfdedf01b0b311c67f6dc340d cc <cctom@umich.edu> 1650302808 -0400	checkout: moving from auto to main
+a6419c2282f28c1dfdedf01b0b311c67f6dc340d c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd cc <cctom@umich.edu> 1650303619 -0400	checkout: moving from main to auto
+c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd a6419c2282f28c1dfdedf01b0b311c67f6dc340d cc <cctom@umich.edu> 1650343084 -0400	checkout: moving from auto to main
+a6419c2282f28c1dfdedf01b0b311c67f6dc340d ea5ee9d8a57f1382e334e47a661a00d47c23ddc8 cc <cctom@umich.edu> 1650351704 -0400	commit: complete manual control part, add joystick detection
+ea5ee9d8a57f1382e334e47a661a00d47c23ddc8 ccfd173e68542c1843035fca23203b39176e7a9b cc <cctom@umich.edu> 1650352988 -0400	commit: fix some bugs, seems still can't control motor...
+ccfd173e68542c1843035fca23203b39176e7a9b c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd cc <cctom@umich.edu> 1650353030 -0400	checkout: moving from main to auto
+c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd ccfd173e68542c1843035fca23203b39176e7a9b cc <cctom@umich.edu> 1650354048 -0400	checkout: moving from auto to main
+ccfd173e68542c1843035fca23203b39176e7a9b eaafd519eacf47490f875c2b6d00feb87065b624 cc <cctom@umich.edu> 1650354205 -0400	commit: aba
+eaafd519eacf47490f875c2b6d00feb87065b624 c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd cc <cctom@umich.edu> 1650354216 -0400	checkout: moving from main to auto
+c4b37766e9f301c0c97cfd1c9f44ba2eb5fc17bd 0651513ba180f9989f2fd160f88aed3acb4640ad cc <cctom@umich.edu> 1650411097 -0400	commit: update
+0651513ba180f9989f2fd160f88aed3acb4640ad eaafd519eacf47490f875c2b6d00feb87065b624 cc <cctom@umich.edu> 1650411103 -0400	checkout: moving from auto to main
